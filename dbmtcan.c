@@ -191,4 +191,4 @@ void* scann(void *jobs)
 	free(storage2);
 	free(jobs);	
 	fclose(fiptr); //closes write file
-}	
+}	//
